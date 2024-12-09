@@ -78,11 +78,11 @@ const SingleBlog = () => {
                                                                             </cite>
                                                                         </blockquote>
                                                                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus debitis adipisci alias odit aperiam voluptatum, nostrum officia fuga, vitae magni aliquid praesentium autem? Ducimus praesentium molestiae, nemo consequatur tempora facere?</p>
-                                                                        <img src="/src/assets/images/blog/single/01.jpg" alt="" />
+                                                                        <img src="/images/blog/single/01.jpg" alt="" />
                                                                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus debitis adipisci alias odit aperiam voluptatum, nostrum officia fuga, vitae magni aliquid praesentium autem? Ducimus praesentium molestiae, nemo consequatur tempora facere?</p>
 
                                                                         <div className="video-thumb">
-                                                                            <img src="/src/assets/images/blog/single/02.jpg" alt="" />
+                                                                            <img src="/images/blog/single/02.jpg" alt="" />
                                                                             <a href="https://youtu.be/kmy_YNhl0mw" className='video-button popup' target='_blank'>
                                                                                 <i className='icofont-ui-play'></i>                                                  </a>
                                                                         </div>
@@ -145,8 +145,8 @@ const SingleBlog = () => {
 
                         <div className="col-lg-4 col-12">
                             <aside>
-                                <Tags/>
-                                <PopularPost/>
+                                <Tags />
+                                <PopularPost />
                             </aside>
                         </div>
                     </div>

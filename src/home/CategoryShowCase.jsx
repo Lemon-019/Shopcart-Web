@@ -108,10 +108,10 @@ const CategoryShowCase = () => {
         <div className='course-section style-3 padding-tb'>
             {/* shapes */}
             <div className='course-shape one'>
-                <img src="/src/assets/images/shape-img/icon/01.png" alt="" />
+                <img src="/images/shape-img/icon/01.png" alt="" />
             </div>
             <div className='course-shape two'>
-                <img src="/src/assets/images/shape-img/icon/02.png" alt="" />
+                <img src="/images/shape-img/icon/02.png" alt="" />
             </div>
 
             {/* main section */}
